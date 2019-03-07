@@ -20,7 +20,7 @@ loadkeymap
 ±	<
 `	]
 ~	[
-\\ ё
+/ ё
 ? Ё
 
 F	А	CYRILLIC CAPITAL LETTER A
