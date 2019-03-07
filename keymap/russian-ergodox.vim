@@ -18,10 +18,8 @@ let b:keymap_name = "ru-e"
 loadkeymap
 §	>
 ±	<
-`	]
-~	[
-/ ё
-? Ё
+~ ё
+` Ё
 
 F	А	CYRILLIC CAPITAL LETTER A
 <	Б	CYRILLIC CAPITAL LETTER BE
